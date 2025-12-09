@@ -1,4 +1,4 @@
-# Room-Occupancy-Estimation-Project-Python
+# Room-Occupancy-Estimation-Project-Python 
 This project uses the Room Occupancy dataset from the UCI Machine Learning Repository (https://archive.ics.uci.edu/dataset/864/room+occupancy+estimation) to predict the number of occupants in a room based on sensor data. The dataset includes measurements such as temperature, light, sound, CO2 levels, and PIR sensor readings.
 
 The project applies multiple machine learning models to classify room occupancy, including:
